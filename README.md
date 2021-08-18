@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maha
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning CS general 
+- 👀 I’m interested in Swift , Java
+- 🌱 I’m currently learning CIS  
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me mahasaeedalghamdi@gmail.com
 
